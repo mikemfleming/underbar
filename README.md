@@ -53,8 +53,12 @@ git commit -m "this commit message has a cat emoji 🐈" # commit your changes w
 git push origin MIKE-WIP
 
 # and then make a pull request with the GUI
-https://help.github.com/en/articles/creating-a-pull-request#creating-the-pull-request
+open https://help.github.com/en/articles/creating-a-pull-request#creating-the-pull-request
+# in this example, 
+# the compare branch would be MIKE-WIP and 
+# the base branch would be MIKE
 ```
+
 
 ## SpecRunner.html
 This file contains all the tests that will run against the functions
