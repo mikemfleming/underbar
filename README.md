@@ -44,8 +44,10 @@ git push origin MIKE
 git checkout -b MIKE-WIP
 
 # save your progress as you go
-git add src/underbar.js
-git commit -m "this commit message has a cat emoji 🐈"
+git status # see what files have changes
+git diff # see the individual changes
+git add src/underbar.js # stage your changes to be committed
+git commit -m "this commit message has a cat emoji 🐈" # commit your changes with a message
 
 # when you are ready to have your work reviewed, push your work up to Github
 git push origin MIKE
