@@ -49,8 +49,8 @@ git diff # see the individual changes
 git add src/underbar.js # stage your changes to be committed
 git commit -m "this commit message has a cat emoji 🐈" # commit your changes with a message
 
-# when you are ready to have your work reviewed, push your work up to Github
-git push origin MIKE
+# when you are ready to have your work reviewed, push your wip branch to Github
+git push origin MIKE-WIP
 
 # and then make a pull request with the GUI
 https://help.github.com/en/articles/creating-a-pull-request#creating-the-pull-request
