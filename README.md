@@ -3,7 +3,7 @@
 This repo contains code that will get you a little more comfortable 
 with JavaScript. It teaches functional programming concepts, JavaScript 
 fundamentals (like array methods), and basic Git workflow by having you 
-create your own versions of functions from the popular Underscore library
+create your own versions of functions from the popular [Underscore](https://underscorejs.org/) library
 while commiting your work to version control. It assumes that you are on 
 a Mac with Git installed already.
 
