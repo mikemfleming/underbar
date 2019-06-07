@@ -24,6 +24,7 @@ ones, they're just there to expose you to the concept.
 * [Functions](https://www.w3schools.com/js/js_functions.asp)
 * [Functional Programming](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a)
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+* [Debugging with Chrome](https://developers.google.com/web/tools/chrome-devtools/javascript/)
 
 ## Installation
 In your terminal, run:
@@ -85,6 +86,9 @@ Good luck!
 
 ## Questions
 If you have a question, raise an issue using Github's issue system and @ me.
+
+## Stuck?
+If you're using Chrome as your browser then you should familiarze yourself with their [dev tools](https://developers.google.com/web/tools/chrome-devtools/javascript/).
 
 ## Contributing
 This is a living document that we can use to train people up on JS. Submit a pull request if you 
