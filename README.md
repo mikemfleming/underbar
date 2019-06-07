@@ -21,6 +21,7 @@ one, it's just there to expose you to the concept.
 * [Arrays](https://www.w3schools.com/js/js_arrays.asp)
 * [Objects](https://www.w3schools.com/js/js_object_definition.asp)
 * [For Loops](https://www.w3schools.com/js/js_loop_for.asp)
+* [Functions[(https://www.w3schools.com/js/js_functions.asp)
 * [Functional Programming](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a)
 
 ## Installation
