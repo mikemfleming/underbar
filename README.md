@@ -8,9 +8,13 @@ while commiting your work to version control. It assumes that you are on
 a Mac with Git installed already.
 
 ## Resources
-Make sure that you are familiar with these topics before continuing. Don't
-worry about getting into the weeds too much in the functional programming one,
-it's just good to have the gist of it for now if you are unfamiliar. 
+Make sure that you are familiar with these topics before continuing. If you
+don't already know all these concepts pretty well then just focus on getting
+the gist of each and know that you can reference these documents when you 
+need to. 
+
+Don't worry about getting into the weeds too much in the functional programming 
+one, it's just there to expose you to the concept. 
 * [Types in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Data_types)
 * [JavaScript Expressions](https://medium.com/launch-school/javascript-expressions-and-statements-4d32ac9c0e74)
 * [Conditional Statements](https://www.w3schools.com/js/js_if_else.asp)
