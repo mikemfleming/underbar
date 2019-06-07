@@ -63,8 +63,8 @@ git push origin MIKE-WIP
 # and then make a pull request with the GUI
 open https://help.github.com/en/articles/creating-a-pull-request#creating-the-pull-request
 # in this example, 
-# the compare branch would be MIKE-WIP and 
-# the base branch would be MIKE
+#   the compare branch would be MIKE-WIP and 
+#   the base branch would be MIKE
 ```
 
 
@@ -82,7 +82,7 @@ mostly in the comments so make sure you read and follow those.
 Good luck!
 
 ## Questions
-If you have a question, raise an issue using Github and @ me.
+If you have a question, raise an issue using Github's issue system and @ me.
 
 ## Contributing
 This is a living document that we can use to train people up on JS. Submit a pull request if you 
