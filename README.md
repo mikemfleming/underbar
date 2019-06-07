@@ -14,7 +14,7 @@ the gist of each and know that you can reference these documents when you
 need to. 
 
 Don't worry about getting into the weeds too much in the functional programming 
-one, it's just there to expose you to the concept. 
+ones, they're just there to expose you to the concept. 
 * [Types in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Data_types)
 * [JavaScript Expressions](https://medium.com/launch-school/javascript-expressions-and-statements-4d32ac9c0e74)
 * [Conditional Statements](https://www.w3schools.com/js/js_if_else.asp)
