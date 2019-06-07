@@ -23,6 +23,7 @@ one, it's just there to expose you to the concept.
 * [For Loops](https://www.w3schools.com/js/js_loop_for.asp)
 * [Functions](https://www.w3schools.com/js/js_functions.asp)
 * [Functional Programming](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a)
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 
 ## Installation
 In your terminal, run:
