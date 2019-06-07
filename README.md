@@ -12,7 +12,9 @@ Make sure that you are familiar with these topics before continuing. Don't
 worry about getting into the weeds too much in the functional programming one,
 it's just good to have the gist of it for now if you are unfamiliar. 
 * [Types in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Data_types)
-* [For loops](https://www.w3schools.com/js/js_loop_for.asp)
+* [JavaScript Expressions](https://medium.com/launch-school/javascript-expressions-and-statements-4d32ac9c0e74)
+* [Conditional Statements](https://www.w3schools.com/js/js_if_else.asp)
+* [For Loops](https://www.w3schools.com/js/js_loop_for.asp)
 * [Functional Programming](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a)
 
 ## Installation
@@ -78,4 +80,4 @@ If you have a question, raise an issue using Github and @ me.
 
 ## Contributing
 This is a living document that we can use to train people up on JS. Submit a pull request if you 
-have an idea of how to make this better.
+have an idea of how to make it better.
