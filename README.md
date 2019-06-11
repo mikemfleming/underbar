@@ -5,7 +5,7 @@ with JavaScript. It teaches functional programming concepts, JavaScript
 fundamentals (like array methods), and basic Git workflow by having you 
 create your own versions of functions from the popular [Underscore](https://underscorejs.org/) library
 while commiting your work to version control. It assumes that you are on 
-a Mac with Git installed already.
+a Mac with [Git](https://www.git-scm.com/book/en/v1/Getting-Started-Installing-Git#Installing-on-Mac) installed already.
 
 ## Resources
 Make sure that you are familiar with these topics before continuing. If you
