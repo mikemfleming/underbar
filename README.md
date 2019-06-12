@@ -22,9 +22,12 @@ ones, they're just there to expose you to the concept.
 * [Objects](https://www.w3schools.com/js/js_object_definition.asp)
 * [For Loops](https://www.w3schools.com/js/js_loop_for.asp)
 * [Functions](https://www.w3schools.com/js/js_functions.asp)
+* [Closures](https://www.reddit.com/r/csELI5/comments/1q1eh8/eli5_closures/)
 * [Functional Programming](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a)
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 * [Debugging with Chrome](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+
+*I consider MPJME's youtube [series](https://www.youtube.com/watch?v=BMUiFMZr7vk) on functional programming a must watch, it may be a little easier to digest than some of the above articles.*
 
 ## Installation
 In your terminal, run:
